@@ -1,8 +1,5 @@
-<img width="4170" height="2970" alt="fig3_hybrid_workflow" src="https://github.com/user-attachments/assets/dcd1c89f-4291-4e4d-99a6-94d701fc36d2" />
 
 # Experimental Analysis of Hybrid Quantum-Classical Variational Circuits for Classification Under NISQ Constraints
-
-![Project overview](![Uploading fig3_hybrid_workflow.png…])
 
 This repository contains the experimental outputs for a system-level
 study of hybrid quantum-classical workflows under noisy
@@ -65,7 +62,7 @@ experiments, 25 hybrid-workflow runs, 50 classical-baseline experiments,
 
 ## 3. Experimental Workflow
 
-![Circuit complexity]![Uploading fig1_circuit_complexity.png…]()
+<img width="4170" height="2970" alt="fig1_circuit_complexity" src="https://github.com/user-attachments/assets/63d7366a-52fa-4b1f-afd5-71945792c963" />
 
 
 The experimental workflow follows a hybrid quantum-classical pipeline:
@@ -104,7 +101,7 @@ The supplied VQC results contain the following fields:
 The supplied result data cover qubit counts from 4 to 12 and circuit
 layers from 1 to 4, with noise levels of 0, 0.01, 0.02, and 0.05.
 
-![Noise impact](fig2_noise_impact.png)
+<img width="4074" height="1469" alt="fig2_noise_impact" src="https://github.com/user-attachments/assets/55234235-aee2-4758-86b4-0e70982994ed" />
 
 The supplied summary reports a strong degradation in the recorded
 noise-impact metric as noise increases. The repository should therefore
@@ -133,7 +130,7 @@ data_qaoa_experiments.csv
 
 ## 6. Hybrid Workflow Analysis
 
-![Hybrid workflow](fig3_hybrid_workflow.png)
+<img width="4170" height="2970" alt="fig3_hybrid_workflow" src="https://github.com/user-attachments/assets/dcd1c89f-4291-4e4d-99a6-94d701fc36d2" />
 
 The hybrid workflow separates:
 
@@ -173,7 +170,7 @@ rather than establish a general quantum speedup.
 
 ## 8. Scheduling Analysis
 
-![Scheduling](fig4_scheduling.png)
+<img width="4170" height="2970" alt="fig4_scheduling" src="https://github.com/user-attachments/assets/2ebab075-9144-4f78-a49c-29d949a96ddd" />
 
 The scheduling experiment compares queue-management strategies under
 simulated workloads.
@@ -198,7 +195,7 @@ cloud provider's internal QPU scheduler.
 
 ## 9. Scalability Analysis
 
-![Scalability](fig5_scalability.png)
+<img width="4170" height="2970" alt="fig5_scalability" src="https://github.com/user-attachments/assets/b3606bf5-1e2c-4de5-9f87-2b4311d1cdf3" />
 
 Scalability experiments examine how circuit resources change with qubit
 count.
@@ -220,7 +217,7 @@ should not be generalized beyond the evaluated circuit construction.
 
 ## 10. Readiness Analysis
 
-![Readiness](fig6_readiness.png)
+<img width="4170" height="2970" alt="fig6_readiness" src="https://github.com/user-attachments/assets/843ebd55-028e-4382-85a2-6f0a9d957382" />
 
 The repository contains a readiness-oriented analysis in:
 
@@ -240,7 +237,8 @@ deployment-readiness score.
 
 ## 11. Supplementary Visualization
 
-![Supplementary figures](supplementary_figures.png)
+<img width="5370" height="2970" alt="supplementary_figures" src="https://github.com/user-attachments/assets/31d98c13-1d71-4f70-99e2-8872455ff8da" />
+
 
 Additional plots are consolidated in:
 
@@ -415,23 +413,12 @@ evaluated datasets, configurations, noise assumptions, and hardware
 conditions. It does not claim universal quantum advantage or universal
 deployment readiness.
 
-## 18. Citation
-
-If you use this repository in academic work, cite the associated
-manuscript:
-
-``` text
-Anurag Bhattacharjee, Sayan Ghosh, and Anjan Bandyopadhyay,
-"Experimental Analysis of Hybrid Quantum-Classical Variational Circuits
-for Classification Under NISQ Constraints."
-```
-
-## 19. License
+## 18. License
 
 No license information was supplied with the uploaded experimental
 files. Add an appropriate license before public release.
 
-## 20. Contact
+## 19. Contact
 
 **Anurag Bhattacharjee**
 
