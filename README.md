@@ -1,6 +1,6 @@
-# Experimental Analysis of Hybrid Quantum-Classical Variational Circuits for Classification Under NISQ Constraints
+<img width="4170" height="2970" alt="fig3_hybrid_workflow" src="https://github.com/user-attachments/assets/dcd1c89f-4291-4e4d-99a6-94d701fc36d2" /># Experimental Analysis of Hybrid Quantum-Classical Variational Circuits for Classification Under NISQ Constraints
 
-![Project overview](fig3_hybrid_workflow.png)
+![Project overview](![Uploading fig3_hybrid_workflow.png…])
 
 This repository contains the experimental outputs for a system-level
 study of hybrid quantum-classical workflows under noisy
@@ -63,7 +63,8 @@ experiments, 25 hybrid-workflow runs, 50 classical-baseline experiments,
 
 ## 3. Experimental Workflow
 
-![Circuit complexity](fig1_circuit_complexity.png)
+![Circuit complexity]![Uploading fig1_circuit_complexity.png…]()
+
 
 The experimental workflow follows a hybrid quantum-classical pipeline:
 
