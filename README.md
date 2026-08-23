@@ -1,4 +1,6 @@
-<img width="4170" height="2970" alt="fig3_hybrid_workflow" src="https://github.com/user-attachments/assets/dcd1c89f-4291-4e4d-99a6-94d701fc36d2" /># Experimental Analysis of Hybrid Quantum-Classical Variational Circuits for Classification Under NISQ Constraints
+<img width="4170" height="2970" alt="fig3_hybrid_workflow" src="https://github.com/user-attachments/assets/dcd1c89f-4291-4e4d-99a6-94d701fc36d2" />
+
+# Experimental Analysis of Hybrid Quantum-Classical Variational Circuits for Classification Under NISQ Constraints
 
 ![Project overview](![Uploading fig3_hybrid_workflow.png…])
 
