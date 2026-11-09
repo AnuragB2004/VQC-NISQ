@@ -1,0 +1,66 @@
+{
+ "per_config": {
+  "breast_cancer|4|2": {
+   "rel_loss_drop_mean": 0.11567791601274614,
+   "rel_loss_drop_min": -0.022180545087719123,
+   "rel_loss_drop_max": 0.24750063234383146,
+   "r_train_test": 0.9899130482249797,
+   "n_below_half": 1,
+   "n_below_majority": 3,
+   "mean_minus_majority": 0.10935672514619887
+  },
+  "breast_cancer|8|2": {
+   "rel_loss_drop_mean": 0.10578130274159635,
+   "rel_loss_drop_min": 0.004642518570001851,
+   "rel_loss_drop_max": 0.2976050631403797,
+   "r_train_test": 0.9860688558582291,
+   "n_below_half": 10,
+   "n_below_majority": 10,
+   "mean_minus_majority": -0.18421052631578946
+  },
+  "breast_cancer|8|4": {
+   "rel_loss_drop_mean": 0.07868529401646972,
+   "rel_loss_drop_min": 0.005152042652184753,
+   "rel_loss_drop_max": 0.192053590351357,
+   "r_train_test": 0.9909432120502655,
+   "n_below_half": 8,
+   "n_below_majority": 9,
+   "mean_minus_majority": -0.1467836257309941
+  },
+  "digits|4|2": {
+   "rel_loss_drop_mean": 0.27803261212165087,
+   "rel_loss_drop_min": 0.044201120208544276,
+   "rel_loss_drop_max": 0.5127633889222587,
+   "r_train_test": 0.9924625667520101,
+   "n_below_half": 6,
+   "n_below_majority": 6,
+   "mean_minus_majority": 0.05092592592592592
+  },
+  "digits|8|2": {
+   "rel_loss_drop_mean": 0.23138438016431503,
+   "rel_loss_drop_min": 0.032795773824540846,
+   "rel_loss_drop_max": 0.4524528699259648,
+   "r_train_test": 0.9936551684774705,
+   "n_below_half": 3,
+   "n_below_majority": 3,
+   "mean_minus_majority": 0.22222222222222227
+  },
+  "digits|8|4": {
+   "rel_loss_drop_mean": 0.15375232484237458,
+   "rel_loss_drop_min": 0.06109326015545746,
+   "rel_loss_drop_max": 0.2791540874229026,
+   "r_train_test": 0.9920683932544326,
+   "n_below_half": 7,
+   "n_below_majority": 7,
+   "mean_minus_majority": 0.04166666666666666
+  }
+ },
+ "pooled": {
+  "n_trials": 90,
+  "rel_loss_drop_mean": 0.1605523049831921,
+  "rel_loss_drop_median": 0.13263310592632485,
+  "r_train_test": 0.9920972049144695,
+  "n_below_half": 35,
+  "n_below_majority": 38
+ }
+}

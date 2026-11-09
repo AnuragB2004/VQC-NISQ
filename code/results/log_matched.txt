@@ -1,0 +1,215 @@
+breast_cancer seed 42 dim 4: Logist=0.947, Linear=0.947, RBF SV=0.956, Random=0.939, MLP=0.965, XGBoos=0.947  [81s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 42 dim 8: Logist=0.956, Linear=0.965, RBF SV=0.956, Random=0.947, MLP=0.965, XGBoos=0.947  [173s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 43 dim 4: Logist=0.921, Linear=0.912, RBF SV=0.921, Random=0.921, MLP=0.930, XGBoos=0.921  [241s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 43 dim 8: Logist=0.921, Linear=0.939, RBF SV=0.965, Random=0.921, MLP=0.965, XGBoos=0.930  [322s]
+breast_cancer seed 44 dim 4: Logist=0.982, Linear=0.974, RBF SV=0.965, Random=0.947, MLP=0.965, XGBoos=0.965  [401s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 44 dim 8: Logist=0.991, Linear=0.974, RBF SV=0.974, Random=0.956, MLP=0.974, XGBoos=0.965  [500s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 45 dim 4: Logist=0.947, Linear=0.947, RBF SV=0.956, Random=0.939, MLP=0.956, XGBoos=0.956  [579s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 45 dim 8: Logist=0.947, Linear=0.947, RBF SV=0.965, Random=0.939, MLP=0.956, XGBoos=0.965  [669s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 46 dim 4: Logist=0.939, Linear=0.947, RBF SV=0.956, Random=0.956, MLP=0.947, XGBoos=0.982  [748s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 46 dim 8: Logist=0.956, Linear=0.974, RBF SV=0.965, Random=0.956, MLP=0.947, XGBoos=0.982  [845s]
+breast_cancer seed 47 dim 4: Logist=0.904, Linear=0.930, RBF SV=0.939, Random=0.947, MLP=0.939, XGBoos=0.930  [919s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 47 dim 8: Logist=0.912, Linear=0.939, RBF SV=0.947, Random=0.947, MLP=0.974, XGBoos=0.956  [1013s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 48 dim 4: Logist=0.939, Linear=0.965, RBF SV=0.965, Random=0.947, MLP=0.965, XGBoos=0.947  [1087s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 48 dim 8: Logist=0.956, Linear=0.974, RBF SV=0.974, Random=0.939, MLP=0.974, XGBoos=0.956  [1170s]
+breast_cancer seed 49 dim 4: Logist=0.930, Linear=0.921, RBF SV=0.947, Random=0.939, MLP=0.939, XGBoos=0.947  [1253s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 49 dim 8: Logist=0.947, Linear=0.956, RBF SV=0.974, Random=0.965, MLP=0.974, XGBoos=0.956  [1344s]
+breast_cancer seed 50 dim 4: Logist=0.930, Linear=0.956, RBF SV=0.974, Random=0.956, MLP=0.974, XGBoos=0.965  [1426s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 50 dim 8: Logist=0.930, Linear=0.947, RBF SV=0.991, Random=0.939, MLP=0.991, XGBoos=0.956  [1516s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 51 dim 4: Logist=0.947, Linear=0.956, RBF SV=0.947, Random=0.947, MLP=0.930, XGBoos=0.956  [1589s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 51 dim 8: Logist=0.965, Linear=0.956, RBF SV=0.947, Random=0.947, MLP=0.947, XGBoos=0.939  [1677s]
+breast_cancer seed 52 dim 4: Logist=0.921, Linear=0.930, RBF SV=0.956, Random=0.982, MLP=0.956, XGBoos=0.974  [1754s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 52 dim 8: Logist=0.939, Linear=0.947, RBF SV=0.965, Random=0.956, MLP=0.982, XGBoos=0.965  [1844s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 53 dim 4: Logist=0.947, Linear=0.956, RBF SV=0.947, Random=0.956, MLP=0.956, XGBoos=0.947  [1919s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 53 dim 8: Logist=0.974, Linear=0.974, RBF SV=0.965, Random=0.956, MLP=0.982, XGBoos=0.956  [2013s]
+breast_cancer seed 54 dim 4: Logist=0.939, Linear=0.947, RBF SV=0.956, Random=0.965, MLP=0.982, XGBoos=0.965  [2092s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 54 dim 8: Logist=0.974, Linear=0.974, RBF SV=0.974, Random=0.982, MLP=0.991, XGBoos=0.982  [2189s]
+breast_cancer seed 55 dim 4: Logist=0.921, Linear=0.939, RBF SV=0.947, Random=0.947, MLP=0.939, XGBoos=0.930  [2267s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 55 dim 8: Logist=0.939, Linear=0.965, RBF SV=0.982, Random=0.947, MLP=0.974, XGBoos=0.939  [2360s]
+breast_cancer seed 56 dim 4: Logist=0.904, Linear=0.930, RBF SV=0.930, Random=0.939, MLP=0.974, XGBoos=0.939  [2433s]
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/kaggle/working/venv311/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py:691: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+breast_cancer seed 56 dim 8: Logist=0.939, Linear=0.939, RBF SV=0.947, Random=0.939, MLP=0.965, XGBoos=0.956  [2523s]
+digits seed 42 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [2574s]
+digits seed 42 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=0.986, XGBoos=1.000  [2625s]
+digits seed 43 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=1.000  [2673s]
+digits seed 43 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=1.000  [2723s]
+digits seed 44 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.972, MLP=1.000, XGBoos=0.972  [2775s]
+digits seed 44 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.972, MLP=1.000, XGBoos=0.972  [2830s]
+digits seed 45 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=0.986  [2882s]
+digits seed 45 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=0.986  [2937s]
+digits seed 46 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [2989s]
+digits seed 46 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3043s]
+digits seed 47 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3095s]
+digits seed 47 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3148s]
+digits seed 48 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3199s]
+digits seed 48 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3253s]
+digits seed 49 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=1.000  [3305s]
+digits seed 49 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=0.986, XGBoos=1.000  [3359s]
+digits seed 50 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3412s]
+digits seed 50 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=0.986  [3466s]
+digits seed 51 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.972, MLP=1.000, XGBoos=0.972  [3518s]
+digits seed 51 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.972, MLP=1.000, XGBoos=0.972  [3570s]
+digits seed 52 dim 4: Logist=0.986, Linear=0.986, RBF SV=1.000, Random=0.986, MLP=0.986, XGBoos=0.986  [3622s]
+digits seed 52 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=0.986  [3676s]
+digits seed 53 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3732s]
+digits seed 53 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3789s]
+digits seed 54 dim 4: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3843s]
+digits seed 54 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=1.000, MLP=1.000, XGBoos=1.000  [3903s]
+digits seed 55 dim 4: Logist=0.986, Linear=0.986, RBF SV=1.000, Random=0.986, MLP=0.986, XGBoos=0.972  [3955s]
+digits seed 55 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=0.972  [4009s]
+digits seed 56 dim 4: Logist=0.986, Linear=0.986, RBF SV=1.000, Random=0.986, MLP=0.986, XGBoos=0.986  [4060s]
+digits seed 56 dim 8: Logist=1.000, Linear=1.000, RBF SV=1.000, Random=0.986, MLP=1.000, XGBoos=0.986  [4115s]
+done 4115.457747443999

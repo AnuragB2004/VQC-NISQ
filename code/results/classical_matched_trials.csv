@@ -1,0 +1,361 @@
+dataset,model,dimension,seed,test_accuracy,n_test,fit_seconds,best_params
+breast_cancer,Logistic Regression,4,42,0.9473684210526315,114,0.0037530939998760005,{}
+breast_cancer,Linear SVM,4,42,0.9473684210526315,114,0.002860153000256105,{}
+breast_cancer,RBF SVM,4,42,0.956140350877193,114,1.1954480270001113,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,42,0.9385964912280702,114,32.888175156000216,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,4,42,0.9649122807017544,114,29.763410670999747,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,42,0.9473684210526315,114,17.408891970999775,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,8,42,0.956140350877193,114,0.003665539999929024,{}
+breast_cancer,Linear SVM,8,42,0.9649122807017544,114,0.003448552000008931,{}
+breast_cancer,RBF SVM,8,42,0.956140350877193,114,0.2020111279998673,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,42,0.9473684210526315,114,32.39675249200036,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,8,42,0.9649122807017544,114,37.38244044299972,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,42,0.9473684210526315,114,21.394269721,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,43,0.9210526315789473,114,0.00294069599976865,{}
+breast_cancer,Linear SVM,4,43,0.9122807017543859,114,0.002505427000414784,{}
+breast_cancer,RBF SVM,4,43,0.9210526315789473,114,0.17543601900024441,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,43,0.9210526315789473,114,30.376839739999923,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,43,0.9298245614035088,114,22.00359080399994,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+breast_cancer,XGBoost,4,43,0.9210526315789473,114,15.32477288400014,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,43,0.9210526315789473,114,0.002752794999651087,{}
+breast_cancer,Linear SVM,8,43,0.9385964912280702,114,0.002632005000123172,{}
+breast_cancer,RBF SVM,8,43,0.9649122807017544,114,0.20680084800005716,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,43,0.9210526315789473,114,31.32094755700018,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,8,43,0.9649122807017544,114,30.796560394999688,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,43,0.9298245614035088,114,19.494956946000002,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,44,0.9824561403508771,114,0.0043976560000373865,{}
+breast_cancer,Linear SVM,4,44,0.9736842105263158,114,0.0028732390001096064,{}
+breast_cancer,RBF SVM,4,44,0.9649122807017544,114,0.19083862100023907,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,44,0.9473684210526315,114,31.366603703999772,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,44,0.9649122807017544,114,28.673640275999787,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,4,44,0.9649122807017544,114,18.217600004999895,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,44,0.9912280701754386,114,0.0027192260004085256,{}
+breast_cancer,Linear SVM,8,44,0.9736842105263158,114,0.0030673050000586954,{}
+breast_cancer,RBF SVM,8,44,0.9736842105263158,114,0.2117128230001981,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,44,0.956140350877193,114,33.393736841999726,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,8,44,0.9736842105263158,114,40.48437620799996,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,44,0.9649122807017544,114,24.58562562399993,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,45,0.9473684210526315,114,0.003968784999869968,{}
+breast_cancer,Linear SVM,4,45,0.9473684210526315,114,0.002832057999967219,{}
+breast_cancer,RBF SVM,4,45,0.956140350877193,114,0.18348525699957463,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,45,0.9385964912280702,114,31.737824509999882,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,45,0.956140350877193,114,30.21971353200024,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,4,45,0.956140350877193,114,16.85689199499984,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,45,0.9473684210526315,114,0.002595552000002499,{}
+breast_cancer,Linear SVM,8,45,0.9473684210526315,114,0.0026670899997043307,{}
+breast_cancer,RBF SVM,8,45,0.9649122807017544,114,0.19227746199976536,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,45,0.9385964912280702,114,32.774885238000024,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,45,0.956140350877193,114,34.633311316000345,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,45,0.9649122807017544,114,23.080469201999676,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,46,0.9385964912280702,114,0.004268852000677725,{}
+breast_cancer,Linear SVM,4,46,0.9473684210526315,114,0.0028029450004396494,{}
+breast_cancer,RBF SVM,4,46,0.956140350877193,114,0.19067737699970166,"{'C': 1, 'gamma': 'scale'}"
+breast_cancer,Random Forest,4,46,0.956140350877193,114,32.655941504999646,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,4,46,0.9473684210526315,114,28.34151251899948,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,46,0.9824561403508771,114,17.68248537799991,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100, 'subsample': 1.0}"
+breast_cancer,Logistic Regression,8,46,0.956140350877193,114,0.0026435959998707403,{}
+breast_cancer,Linear SVM,8,46,0.9736842105263158,114,0.0027906149998671026,{}
+breast_cancer,RBF SVM,8,46,0.9649122807017544,114,0.19700639999973646,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,46,0.956140350877193,114,32.275939917999494,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,46,0.9473684210526315,114,40.63317067099979,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,8,46,0.9824561403508771,114,24.08794675899935,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,47,0.9035087719298246,114,0.0033005609993779217,{}
+breast_cancer,Linear SVM,4,47,0.9298245614035088,114,0.0027828849997604266,{}
+breast_cancer,RBF SVM,4,47,0.9385964912280702,114,0.19154213399997388,"{'C': 1, 'gamma': 'scale'}"
+breast_cancer,Random Forest,4,47,0.9473684210526315,114,31.9823179240002,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,4,47,0.9385964912280702,114,24.827406247,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+breast_cancer,XGBoost,4,47,0.9298245614035088,114,16.305231521000678,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,8,47,0.9122807017543859,114,0.0031335699995906907,{}
+breast_cancer,Linear SVM,8,47,0.9385964912280702,114,0.003123313000287453,{}
+breast_cancer,RBF SVM,8,47,0.9473684210526315,114,0.1997902980001527,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,47,0.9473684210526315,114,32.741686317999665,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,8,47,0.9736842105263158,114,38.928473453999686,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,47,0.956140350877193,114,22.158814185000665,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,48,0.9385964912280702,114,0.0035901910005122772,{}
+breast_cancer,Linear SVM,4,48,0.9649122807017544,114,0.0024855270003172336,{}
+breast_cancer,RBF SVM,4,48,0.9649122807017544,114,0.19559406499956822,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,48,0.9473684210526315,114,31.38031758499983,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,48,0.9649122807017544,114,25.554527436999706,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,48,0.9473684210526315,114,16.78664876699986,"{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 500, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,8,48,0.956140350877193,114,0.002843797999958042,{}
+breast_cancer,Linear SVM,8,48,0.9736842105263158,114,0.002721778000704944,{}
+breast_cancer,RBF SVM,8,48,0.9736842105263158,114,0.19005777099937404,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,48,0.9385964912280702,114,32.052148044000205,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,48,0.9736842105263158,114,28.337106895000034,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,48,0.956140350877193,114,22.46093985100015,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,49,0.9298245614035088,114,0.003235641999708605,{}
+breast_cancer,Linear SVM,4,49,0.9210526315789473,114,0.0026548489995548152,{}
+breast_cancer,RBF SVM,4,49,0.9473684210526315,114,0.17949762799980817,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,49,0.9385964912280702,114,31.785334472000613,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,4,49,0.9385964912280702,114,34.837327397999616,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,4,49,0.9473684210526315,114,16.716938635999213,"{'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,49,0.9473684210526315,114,0.002751833999354858,{}
+breast_cancer,Linear SVM,8,49,0.956140350877193,114,0.003809482000178832,{}
+breast_cancer,RBF SVM,8,49,0.9736842105263158,114,0.21188378899933014,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,49,0.9649122807017544,114,32.118637935999686,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,49,0.9736842105263158,114,35.356099294999694,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,49,0.956140350877193,114,23.429179202999876,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 300, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,50,0.9298245614035088,114,0.003467225000349572,{}
+breast_cancer,Linear SVM,4,50,0.956140350877193,114,0.0027429819992903504,{}
+breast_cancer,RBF SVM,4,50,0.9736842105263158,114,0.18859496700042655,"{'C': 1, 'gamma': 'scale'}"
+breast_cancer,Random Forest,4,50,0.956140350877193,114,32.025214366999535,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,4,50,0.9736842105263158,114,31.801100122000207,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,4,50,0.9649122807017544,114,17.36182569399989,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,50,0.9298245614035088,114,0.0029473519998646225,{}
+breast_cancer,Linear SVM,8,50,0.9473684210526315,114,0.0030110950001471792,{}
+breast_cancer,RBF SVM,8,50,0.9912280701754386,114,0.2050498439994044,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,50,0.9385964912280702,114,33.33293395700002,"{'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,8,50,0.9912280701754386,114,32.397351372999765,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,50,0.956140350877193,114,23.81714907300011,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 300, 'subsample': 1.0}"
+breast_cancer,Logistic Regression,4,51,0.9473684210526315,114,0.003590384999370144,{}
+breast_cancer,Linear SVM,4,51,0.956140350877193,114,0.002785168000627891,{}
+breast_cancer,RBF SVM,4,51,0.9473684210526315,114,0.18959707700014405,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,51,0.9473684210526315,114,31.48733988300046,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,51,0.9298245614035088,114,24.049301000000014,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+breast_cancer,XGBoost,4,51,0.956140350877193,114,17.38127217300007,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,51,0.9649122807017544,114,0.0029452460003085434,{}
+breast_cancer,Linear SVM,8,51,0.956140350877193,114,0.0032862789994396735,{}
+breast_cancer,RBF SVM,8,51,0.9473684210526315,114,0.2046054259999437,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,51,0.9473684210526315,114,33.34486432599988,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,8,51,0.9473684210526315,114,30.816576027000337,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,51,0.9385964912280702,114,23.829512652999256,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,52,0.9210526315789473,114,0.003428795999752765,{}
+breast_cancer,Linear SVM,4,52,0.9298245614035088,114,0.0027174220003871596,{}
+breast_cancer,RBF SVM,4,52,0.956140350877193,114,0.1912566799992419,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,52,0.9824561403508771,114,32.0278648679996,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,4,52,0.956140350877193,114,27.052924307000467,"{'hidden_layer_sizes': (256, 256, 128), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,52,0.9736842105263158,114,17.489687545999914,"{'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 100, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,52,0.9385964912280702,114,0.0028526649994091713,{}
+breast_cancer,Linear SVM,8,52,0.9473684210526315,114,0.003294725000159815,{}
+breast_cancer,RBF SVM,8,52,0.9649122807017544,114,0.20070961199962767,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,52,0.956140350877193,114,32.460007046999635,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,52,0.9824561403508771,114,33.66867558800004,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,52,0.9649122807017544,114,23.86092060700048,"{'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 100, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,53,0.9473684210526315,114,0.003373053999894182,{}
+breast_cancer,Linear SVM,4,53,0.956140350877193,114,0.002796719999423658,{}
+breast_cancer,RBF SVM,4,53,0.9473684210526315,114,0.18566492199988716,"{'C': 10, 'gamma': 'scale'}"
+breast_cancer,Random Forest,4,53,0.956140350877193,114,31.60677200900045,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,4,53,0.956140350877193,114,25.486618165000436,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+breast_cancer,XGBoost,4,53,0.9473684210526315,114,17.394265327999165,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 500, 'subsample': 1.0}"
+breast_cancer,Logistic Regression,8,53,0.9736842105263158,114,0.0026750580000225455,{}
+breast_cancer,Linear SVM,8,53,0.9736842105263158,114,0.003102228999523504,{}
+breast_cancer,RBF SVM,8,53,0.9649122807017544,114,0.20610459799991077,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,53,0.956140350877193,114,32.34741138300069,"{'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,53,0.9824561403508771,114,38.446281092999925,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,53,0.956140350877193,114,23.859738284999366,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,54,0.9385964912280702,114,0.0037571240000033868,{}
+breast_cancer,Linear SVM,4,54,0.9473684210526315,114,0.0028588229997694725,{}
+breast_cancer,RBF SVM,4,54,0.956140350877193,114,0.19380956099939795,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,54,0.9649122807017544,114,31.958645749000425,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,4,54,0.9824561403508771,114,28.236314390999723,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,54,0.9649122807017544,114,18.035672195999723,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 100, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,54,0.9736842105263158,114,0.004028328000458714,{}
+breast_cancer,Linear SVM,8,54,0.9736842105263158,114,0.003204141999958665,{}
+breast_cancer,RBF SVM,8,54,0.9736842105263158,114,0.20345610099957412,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,54,0.9824561403508771,114,33.05583741999999,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+breast_cancer,MLP,8,54,0.9912280701754386,114,39.07741200500004,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,8,54,0.9824561403508771,114,24.39189245199941,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.9}"
+breast_cancer,Logistic Regression,4,55,0.9210526315789473,114,0.0032151089999388205,{}
+breast_cancer,Linear SVM,4,55,0.9385964912280702,114,0.0027828639995277626,{}
+breast_cancer,RBF SVM,4,55,0.9473684210526315,114,0.17485936299999594,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,55,0.9473684210526315,114,32.26991532300053,"{'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,4,55,0.9385964912280702,114,28.515447964000487,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,55,0.9298245614035088,114,17.057393451999815,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,55,0.9385964912280702,114,0.002775011999801791,{}
+breast_cancer,Linear SVM,8,55,0.9649122807017544,114,0.0028201009999975213,{}
+breast_cancer,RBF SVM,8,55,0.9824561403508771,114,0.20068330699996295,"{'C': 100, 'gamma': 'auto'}"
+breast_cancer,Random Forest,8,55,0.9473684210526315,114,32.58958092600005,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+breast_cancer,MLP,8,55,0.9736842105263158,114,38.190087557999504,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,55,0.9385964912280702,114,22.43603255800008,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 300, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,4,56,0.9035087719298246,114,0.003552094000042416,{}
+breast_cancer,Linear SVM,4,56,0.9298245614035088,114,0.0026000559992098715,{}
+breast_cancer,RBF SVM,4,56,0.9298245614035088,114,0.17788162699980603,"{'C': 10, 'gamma': 'auto'}"
+breast_cancer,Random Forest,4,56,0.9385964912280702,114,30.530739929000447,"{'max_depth': 10, 'min_samples_leaf': 2, 'n_estimators': 100}"
+breast_cancer,MLP,4,56,0.9736842105263158,114,25.689204252999843,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+breast_cancer,XGBoost,4,56,0.9385964912280702,114,16.35266589100047,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+breast_cancer,Logistic Regression,8,56,0.9385964912280702,114,0.0025331709994134144,{}
+breast_cancer,Linear SVM,8,56,0.9385964912280702,114,0.0027275700003883685,{}
+breast_cancer,RBF SVM,8,56,0.9473684210526315,114,0.2432975930005341,"{'C': 100, 'gamma': 0.01}"
+breast_cancer,Random Forest,8,56,0.9385964912280702,114,31.163684068999828,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+breast_cancer,MLP,8,56,0.9649122807017544,114,36.54919719100053,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+breast_cancer,XGBoost,8,56,0.956140350877193,114,22.344882039000368,"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 500, 'subsample': 0.7}"
+digits,Logistic Regression,4,42,1.0,72,0.002931555000031949,{}
+digits,Linear SVM,4,42,1.0,72,0.0012289819997022278,{}
+digits,RBF SVM,4,42,1.0,72,0.11389088600026298,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,42,1.0,72,27.805524071000036,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,42,1.0,72,13.675397048999912,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,4,42,1.0,72,8.900951857999644,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,42,1.0,72,0.002416540000012901,{}
+digits,Linear SVM,8,42,1.0,72,0.0011360179996700026,{}
+digits,RBF SVM,8,42,1.0,72,0.12012166000022262,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,42,0.9861111111111112,72,27.855082091999975,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,42,0.9861111111111112,72,12.41305334899971,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,8,42,1.0,72,10.628801888999988,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,43,1.0,72,0.00267152700052975,{}
+digits,Linear SVM,4,43,1.0,72,0.0016325910000887234,{}
+digits,RBF SVM,4,43,1.0,72,0.10932709999997314,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,43,0.9861111111111112,72,26.87789219699971,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,43,1.0,72,13.076251630000115,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,4,43,1.0,72,8.450479414000256,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,43,1.0,72,0.004040298000290932,{}
+digits,Linear SVM,8,43,1.0,72,0.0017332449997411459,{}
+digits,RBF SVM,8,43,1.0,72,0.1172756579999259,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,43,0.9861111111111112,72,27.508210975999646,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,43,1.0,72,11.871208249999654,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,43,1.0,72,10.431400387999929,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,44,1.0,72,0.0029212299996288493,{}
+digits,Linear SVM,4,44,1.0,72,0.001354023000203597,{}
+digits,RBF SVM,4,44,1.0,72,0.11189129500053241,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,44,0.9722222222222222,72,28.012292131999857,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,44,1.0,72,14.690411470999607,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,44,0.9722222222222222,72,9.27748548100044,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,44,1.0,72,0.0027432859997134074,{}
+digits,Linear SVM,8,44,1.0,72,0.0012409250002747285,{}
+digits,RBF SVM,8,44,1.0,72,0.11922554900047544,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,44,0.9722222222222222,72,29.054420194999693,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,44,1.0,72,14.906815800000004,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,44,0.9722222222222222,72,10.978144682000675,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,45,1.0,72,0.0028815709993068594,{}
+digits,Linear SVM,4,45,1.0,72,0.0012201500003357069,{}
+digits,RBF SVM,4,45,1.0,72,0.11332462899918028,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,45,1.0,72,27.974206525000227,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,45,1.0,72,14.15011713200056,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,45,0.9861111111111112,72,8.974021370000628,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,45,1.0,72,0.002588215000287164,{}
+digits,Linear SVM,8,45,1.0,72,0.001299352999922121,{}
+digits,RBF SVM,8,45,1.0,72,0.1217392660000769,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,45,1.0,72,29.251915873000144,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,45,1.0,72,14.331220576000305,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.001}"
+digits,XGBoost,8,45,0.9861111111111112,72,11.321801596999649,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+digits,Logistic Regression,4,46,1.0,72,0.0029583159994217567,{}
+digits,Linear SVM,4,46,1.0,72,0.0011800199999925098,{}
+digits,RBF SVM,4,46,1.0,72,0.11512128899994423,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,46,1.0,72,28.723014233999493,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,46,1.0,72,14.3380531039993,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,46,1.0,72,9.334841701000187,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'subsample': 1.0}"
+digits,Logistic Regression,8,46,1.0,72,0.0026098809994437033,{}
+digits,Linear SVM,8,46,1.0,72,0.0011860429995067534,{}
+digits,RBF SVM,8,46,1.0,72,0.12428800999987288,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,46,1.0,72,29.156484832000388,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 500}"
+digits,MLP,8,46,1.0,72,13.285064903000602,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,8,46,1.0,72,11.155412953999985,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.9}"
+digits,Logistic Regression,4,47,1.0,72,0.003223322999474476,{}
+digits,Linear SVM,4,47,1.0,72,0.0013607430000774912,{}
+digits,RBF SVM,4,47,1.0,72,0.11913151499993546,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,47,1.0,72,28.170793891999892,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,47,1.0,72,13.865754108000147,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,47,1.0,72,9.444474769999943,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+digits,Logistic Regression,8,47,1.0,72,0.002931773999989673,{}
+digits,Linear SVM,8,47,1.0,72,0.0012910659997942275,{}
+digits,RBF SVM,8,47,1.0,72,0.12424249300056545,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,47,1.0,72,29.088090677000764,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 500}"
+digits,MLP,8,47,1.0,72,13.066065105000234,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,8,47,1.0,72,11.027834604999953,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.9}"
+digits,Logistic Regression,4,48,1.0,72,0.0029313269997146563,{}
+digits,Linear SVM,4,48,1.0,72,0.0011330349998388556,{}
+digits,RBF SVM,4,48,1.0,72,0.10874586400041153,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,48,1.0,72,27.379174872000476,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,48,1.0,72,14.262451084999157,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,48,1.0,72,9.15443522700025,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,48,1.0,72,0.003301108999949065,{}
+digits,Linear SVM,8,48,1.0,72,0.0012613670005521271,{}
+digits,RBF SVM,8,48,1.0,72,0.11807482699987304,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,48,1.0,72,29.262866600999587,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,48,1.0,72,13.278095466000195,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,48,1.0,72,11.230308469000192,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+digits,Logistic Regression,4,49,1.0,72,0.003376166999260022,{}
+digits,Linear SVM,4,49,1.0,72,0.002018436000071233,{}
+digits,RBF SVM,4,49,1.0,72,0.11899463699955959,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,49,0.9861111111111112,72,28.297355849999803,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,49,1.0,72,14.160783629999969,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,49,1.0,72,9.435429087000557,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,49,1.0,72,0.003321640000649495,{}
+digits,Linear SVM,8,49,1.0,72,0.0011949609997827793,{}
+digits,RBF SVM,8,49,1.0,72,0.12100160800036974,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,49,0.9861111111111112,72,29.032178630999624,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,49,0.9861111111111112,72,13.70357696100018,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,49,1.0,72,11.528636967999773,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.9}"
+digits,Logistic Regression,4,50,1.0,72,0.0027822370002468233,{}
+digits,Linear SVM,4,50,1.0,72,0.0010942700000668992,{}
+digits,RBF SVM,4,50,1.0,72,0.11116217200014944,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,50,1.0,72,28.4991817680002,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,50,1.0,72,14.633173588999853,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,50,1.0,72,9.127262019000227,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,50,1.0,72,0.003975756999352598,{}
+digits,Linear SVM,8,50,1.0,72,0.0013018610006838571,{}
+digits,RBF SVM,8,50,1.0,72,0.12163843600046675,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,50,0.9861111111111112,72,28.705293060999793,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,50,1.0,72,14.143939573999887,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,50,0.9861111111111112,72,10.937362837999899,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,51,1.0,72,0.002411843999652774,{}
+digits,Linear SVM,4,51,1.0,72,0.0011912330000996008,{}
+digits,RBF SVM,4,51,1.0,72,0.11035611199986306,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,51,0.9722222222222222,72,28.733448402999784,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,51,1.0,72,14.370465715999671,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,4,51,0.9722222222222222,72,8.907747137000115,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,51,1.0,72,0.0033355759996993584,{}
+digits,Linear SVM,8,51,1.0,72,0.0015874359996814746,{}
+digits,RBF SVM,8,51,1.0,72,0.13041871400037053,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,51,0.9722222222222222,72,29.205218392999996,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,51,1.0,72,12.796060767999734,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,51,0.9722222222222222,72,10.073190782999518,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,52,0.9861111111111112,72,0.00286824499926297,{}
+digits,Linear SVM,4,52,0.9861111111111112,72,0.0012651759998334455,{}
+digits,RBF SVM,4,52,1.0,72,0.11554396399969846,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,52,0.9861111111111112,72,28.133426798000073,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,52,0.9861111111111112,72,14.638130483999703,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,4,52,0.9861111111111112,72,8.893643483999767,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,52,1.0,72,0.003329248999762058,{}
+digits,Linear SVM,8,52,1.0,72,0.0014198649996615131,{}
+digits,RBF SVM,8,52,1.0,72,0.12759321900011855,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,52,0.9861111111111112,72,29.183851558000242,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,52,1.0,72,13.60706080700038,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,52,0.9861111111111112,72,10.911297840999396,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,53,1.0,72,0.0034219239996673423,{}
+digits,Linear SVM,4,53,1.0,72,0.001482554999711283,{}
+digits,RBF SVM,4,53,1.0,72,0.12101904800056218,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,53,1.0,72,29.74296331000005,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,53,1.0,72,15.75998457500009,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,4,53,1.0,72,10.354500409999673,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 1.0}"
+digits,Logistic Regression,8,53,1.0,72,0.002623598000354832,{}
+digits,Linear SVM,8,53,1.0,72,0.0015148730008149869,{}
+digits,RBF SVM,8,53,1.0,72,0.13741098099944793,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,53,1.0,72,31.132604448000166,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}"
+digits,MLP,8,53,1.0,72,14.195327856000404,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,8,53,1.0,72,11.593788889999814,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+digits,Logistic Regression,4,54,1.0,72,0.0030455379992417875,{}
+digits,Linear SVM,4,54,1.0,72,0.0013155000006008777,{}
+digits,RBF SVM,4,54,1.0,72,0.12162228800025332,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,54,1.0,72,28.553804915999535,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,54,1.0,72,15.706027582000388,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.01}"
+digits,XGBoost,4,54,1.0,72,10.157874410000659,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500, 'subsample': 0.7}"
+digits,Logistic Regression,8,54,1.0,72,0.0033188050001626834,{}
+digits,Linear SVM,8,54,1.0,72,0.0014025310001670732,{}
+digits,RBF SVM,8,54,1.0,72,0.14196818900018116,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,54,1.0,72,31.15558072099975,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,54,1.0,72,15.969871498999964,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,8,54,1.0,72,12.502177727999879,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 300, 'subsample': 0.7}"
+digits,Logistic Regression,4,55,0.9861111111111112,72,0.0034049160003633006,{}
+digits,Linear SVM,4,55,0.9861111111111112,72,0.0012724260004688404,{}
+digits,RBF SVM,4,55,1.0,72,0.12092332100019121,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,55,0.9861111111111112,72,28.66708520800057,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,55,0.9861111111111112,72,14.080238428000484,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,4,55,0.9722222222222222,72,9.019864877000145,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,55,1.0,72,0.0025439940000069328,{}
+digits,Linear SVM,8,55,1.0,72,0.0013277609996293904,{}
+digits,RBF SVM,8,55,1.0,72,0.12065952299963101,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,55,0.9861111111111112,72,29.235540560999652,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 200}"
+digits,MLP,8,55,1.0,72,13.810554552999747,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,55,0.9722222222222222,72,10.797782043000552,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,4,56,0.9861111111111112,72,0.003002759000082733,{}
+digits,Linear SVM,4,56,0.9861111111111112,72,0.0013191130001359852,{}
+digits,RBF SVM,4,56,1.0,72,0.11661816400010139,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,4,56,0.9861111111111112,72,28.231992136999907,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,4,56,0.9861111111111112,72,13.998916522999934,"{'hidden_layer_sizes': (64, 64), 'learning_rate_init': 0.001}"
+digits,XGBoost,4,56,0.9861111111111112,72,9.201609714999904,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"
+digits,Logistic Regression,8,56,1.0,72,0.0025588880007489934,{}
+digits,Linear SVM,8,56,1.0,72,0.0015544529996986967,{}
+digits,RBF SVM,8,56,1.0,72,0.11905370899967238,"{'C': 0.1, 'gamma': 'scale'}"
+digits,Random Forest,8,56,0.9861111111111112,72,28.938723623999977,"{'max_depth': 5, 'min_samples_leaf': 1, 'n_estimators': 100}"
+digits,MLP,8,56,1.0,72,14.991166851000344,"{'hidden_layer_sizes': (128, 128), 'learning_rate_init': 0.0001}"
+digits,XGBoost,8,56,0.9861111111111112,72,10.957682241999464,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 0.7}"

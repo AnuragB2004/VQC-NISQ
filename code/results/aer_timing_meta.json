@@ -1,0 +1,38 @@
+{
+  "4Q-2L": {
+    "method": "density_matrix",
+    "transpiled_depth_mean": 14.0,
+    "transpiled_cx_mean": 6.0,
+    "transpiled_1q_mean": 32.0,
+    "logical_counts": {
+      "ry": 16,
+      "rz": 8,
+      "cx": 6,
+      "measure": 1
+    }
+  },
+  "8Q-2L": {
+    "method": "density_matrix",
+    "transpiled_depth_mean": 18.0,
+    "transpiled_cx_mean": 14.0,
+    "transpiled_1q_mean": 64.0,
+    "logical_counts": {
+      "ry": 32,
+      "rz": 16,
+      "cx": 14,
+      "measure": 1
+    }
+  },
+  "8Q-4L": {
+    "method": "density_matrix",
+    "transpiled_depth_mean": 30.0,
+    "transpiled_cx_mean": 28.0,
+    "transpiled_1q_mean": 128.0,
+    "logical_counts": {
+      "ry": 48,
+      "rz": 32,
+      "cx": 28,
+      "measure": 1
+    }
+  }
+}
